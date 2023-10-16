@@ -1,0 +1,21 @@
+<package>
+	<id>dev.traurige.eneko</id>
+	<name>Eneko</name>
+	<version>1.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>14.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>com.mrgcgamer.libgcuniversal</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Live wallpapers for iOS</description>
+	</descriptionlist>
+	</screenshots>
+	<changelog>
+		<change>Added: Option to disable the home screen wallpaper zoom</change>
+	</changelog>
+</package>
