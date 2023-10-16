@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>1.6.4</version>
+		<change>Fixed a regression from 1.6.3 in the ColorPickerUtils</change>
+	</changes>
+</changelog>
