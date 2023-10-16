@@ -2,7 +2,7 @@ Package: com.mrgcgamer.libgcuniversal
 Version: 1.6.4
 Section: Tweaks
 Maintainer: Mrgcgamer
-Depends: firmware (<12.0), ws.hbang.alderis
+Depends: ws.hbang.alderis
 Architecture: iphoneos-arm64
 Filename: ./debs/com.mrgcgamer.libgcuniversal_1.6.4_iphoneos-arm64.deb
 Size: 42992
@@ -16,7 +16,7 @@ Package: com.mrgcgamer.libgcuniversal
 Version: 1.6.4
 Section: Tweaks
 Maintainer: Mrgcgamer
-Depends: firmware (<12.0), ws.hbang.alderis
+Depends: ws.hbang.alderis
 Architecture: iphoneos-arm
 Filename: ./debs/com.mrgcgamer.libgcuniversal_1.6.4_iphoneos-arm.deb
 Size: 59676
@@ -30,7 +30,7 @@ Package: dev.traurige.eneko
 Version: 1.4
 Section: Tweaks
 Maintainer: Traurige
-Depends: firmware (<14.0), com.mrgcgamer.libgcuniversal
+Depends: com.mrgcgamer.libgcuniversal
 Architecture: iphoneos-arm64
 Filename: ./debs/dev.traurige.eneko_1.4_iphoneos-arm64.deb
 Size: 29412
@@ -44,7 +44,7 @@ Package: dev.traurige.eneko
 Version: 1.4
 Section: Tweaks
 Maintainer: Traurige
-Depends: firmware (<14.0), com.mrgcgamer.libgcuniversal
+Depends: com.mrgcgamer.libgcuniversal
 Architecture: iphoneos-arm
 Filename: ./debs/dev.traurige.eneko_1.4_iphoneos-arm.deb
 Size: 31320
