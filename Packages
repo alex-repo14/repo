@@ -8,7 +8,7 @@ Filename: ./debs/com.mrgcgamer.libgcuniversal_1.6.4_iphoneos-arm64.deb
 Size: 42992
 MD5sum: e98e7eede3cc05f081c54fbd19d3d429
 Description: An awesome library of some sort!!
-Name: LibGcUniversal
+Name: LibGcUniversal (Rootless)
 Author: Mrgcgamer
 Depiction: https://alex-repo14.github.io/repo/depictions/?p=com.mrgcgamer.libgcuniversal
 
@@ -36,7 +36,7 @@ Filename: ./debs/dev.traurige.eneko_1.4_iphoneos-arm64.deb
 Size: 29412
 MD5sum: 5f8443d3c14f4aae25ca21afcfbbd111
 Description: Live wallpapers for iOS
-Name: Eneko
+Name: Eneko (Rootless)
 Author: Traurige
 Depiction: https://alex-repo14.github.io/repo/depictions/?p=dev.traurige.eneko
 
