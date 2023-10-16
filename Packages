@@ -17,7 +17,6 @@ Size: 59676
 MD5sum: a2d2a270d748039d4c4e49109921c3fe
 SHA1: 8b03b756f659779bbf04f571c803d9e6085568de
 SHA256: fe567db5f040b45d27661842db25a65be5dfffa627d32eabf4d20adf8c7f81c4
-SHA521: bc215d9462b52b067ef5bc9a75a3efd0b9840ac4087f456c301033dd49bb838575264a846015eca1185db9c4597aaef967fc05a6857106df2c380c5264c58d01
 
 Package: com.mrgcgamer.libgcuniversal
 Name: LibGcUniversal
@@ -38,7 +37,6 @@ Size: 42992
 MD5sum: e98e7eede3cc05f081c54fbd19d3d429
 SHA1: 23c78ea1225f06de045f7e5e570a84703963e868
 SHA256: ad860c13412ded1618d96a4baaa73d6766bf1b738198f9360d9cccbb1a0ce1ad
-SHA521: bd765675c40f91a35411d0e7239db8d46d635042a047bfb19354efb9af880dd76db8b4c4116d07b6adbbcc8ac26eac2588708716f0ddfd2d82172c59273b3b0b
 
 Package: com.nahtedetihw.floatingdockxvi
 Name: FloatingDockXVI
@@ -57,7 +55,42 @@ Size: 398794
 MD5sum: 1d42a212c2f1b197734163c4b5dee4cf
 SHA1: d930e1accc160981dcd2f22222be9f0efbded2dd
 SHA256: 9d1255ec8e4d4248d764b1bfc0ac78cb57cc47ff1e31c6fbd8a2f6373c2c5a3f
-SHA521: fc1d298d35a8f34543baffb87d1e024d4c64aa189d83096c30a28867b8feddaa62eb10a8fbefcc5c9a1978c30790a28524ec197f148861ac2921479e7361f543
+
+Package: com.imkpatil.colormybattery
+Name: ColorMyBattery
+Description: Battery Color based on the battery percentage.
+Maintainer: P2KDev
+Author: P2KDev
+Section: Tweaks
+Depends: preferenceloader
+Architecture: iphoneos-arm64
+Version: 1.3.4
+Installed-Size: 436
+Filename: debs/com.imkpatil.colormybattery_1.3.4_iphoneos-arm64.deb
+Depiction: https://alex-repo14.github.io/repo/depictions/com.imkpatil.colormybattery.html
+Icon: https://alex-repo14.github.io/repo/icons/com.imkpatil.colormybattery.png
+Size: 41352
+MD5sum: d4ac91182c836388095d0444ed89676e
+SHA1: d4ac91182c836388095d0444ed89676e
+SHA256: ce7dffc8783de0928fad3acc21f29fa90b66fa9307543e7000f1e995fd5abe89
+
+Package: com.imkpatil.colormybattery
+Name: ColorMyBattery
+Description: Battery Color based on the battery percentage.
+Maintainer: P2KDev
+Author: P2KDev
+Section: Tweaks
+Depends: preferenceloader
+Architecture: iphoneos-arm
+Version: 1.3.4
+Installed-Size: 436
+Filename: debs/com.imkpatil.colormybattery_1.3.3.2_iphoneos-arm.deb
+Depiction: https://alex-repo14.github.io/repo/depictions/com.imkpatil.colormybattery.html
+Icon: https://alex-repo14.github.io/repo/icons/com.imkpatil.colormybattery.png
+Size: 40464
+MD5sum: 820baae10c88a79a5914b4bedcbf4870
+SHA1: 820baae10c88a79a5914b4bedcbf4870
+SHA256: 3e9ac642c4e77ebb7ee2ebdba361e6baf414255b6f336858be83ad304e497e58
 
 Package: com.nahtedetihw.floatingdockxvi
 Name: FloatingDockXVI
@@ -76,7 +109,6 @@ Size: 398864
 MD5sum: ca278b321481852c73980e975ae7ba78
 SHA1: 87ae041ad965d6bc89393628f6736af503702815
 SHA256: de15337195927d9090ef1ab1aa9ea5fbaeb983d43c7ba88e18cd59115d2ad1b2
-SHA521: 0f6bbcf536cae6fc998f0f8e8d406c14b92103fc2c310f35e6c4fde1e97b51c3c02e5790cfdcd8d3cb1c3794564d58b74a26681e167c7dd949cb91c9b0819ee7
 
 Package: dev.traurige.eneko
 Name: Eneko
@@ -96,7 +128,6 @@ Size: 31320
 MD5sum: ff8edfcc81d9bd6e11db6fdf29707228
 SHA1: d3e0d2b3e2e6b006295c3821df26ce93804f0269
 SHA256: 7ec2860deda2d50ccf86a826e1c546b6d9501ad8a5a4d9f520cb1c83e2b04ffc
-SHA521: 20b974c7f456065331a955256337ea0d86e87a0a17ea52e0afc66e7c6eed969d64cc8b40229f6a0037309b20372a37dc3d4fbdae80e977a660733843b9c40884
 
 Package: dev.traurige.eneko
 Name: Eneko
@@ -116,5 +147,4 @@ Size: 29412
 MD5sum: 5f8443d3c14f4aae25ca21afcfbbd111
 SHA1: d6058f80495ba85ed95dbe2fdd16b157cd9a0cdc
 SHA256: 4de3760346d7c2baed4f200f38c60e1d2ae735406ec62b27ed3f45f9831f1eb1
-SHA521: 811d9a922539a52730560a2ec3e7f0b71154e8b6ab42f870e204ce6266ec0f8df933ddfed2c7a9b4a2e4fd04493b70d1590b9d99f92bb1f6c449aadbcfd1e3b3
 
