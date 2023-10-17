@@ -1,3 +1,44 @@
+Package: com.alexzielenski.zeppelin
+Version: 2.1.1-1
+Architecture: iphoneos-arm
+Name: Zeppelin
+Maintainer: Alex Zielenski <support@alexzielenski.com>
+Author: Alex Zielenski <support@alexzielenski.com>
+Section: Tweaks
+Description: Replaces carrier text with an image !
+Filename: debs/com.alexzielenski.zeppelin_2.1.1-1_iphoneos-arm.deb
+Depiction: https://imnotsatan.github.io/depictions/com.alexzielenski.zeppelin.html
+Icon: https://imnotsatan.github.io/icons/com.alexzielenski.zeppelin.png
+Size: 961736
+MD5sum: a91d9dfb8b2d198ef3dba92201e1c684
+SHA1: 98ca43528da3e11610b106deb92f0c27eb44c1df
+SHA256: b0693558cb0cdad230685dbf5e9215969bb5ea24c66802fa90d54a7f8386ed9a
+SHA521: cfa081fdb1b62947155bb2a683e4854d01d776569d40163fe11d2c7eb5212456277dd28aa13b791177857632d424aac0acf4c58453079380ad03cc814198b66e
+
+Package: de.j-gessner.unfold
+Depends: firmware(>= 5.0), mobilesubstrate, preferenceloader
+Name: Unfold
+Version: 2.2.5
+Architecture: iphoneos-arm
+Description: smooth animating fold-to-unlock
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Jonas Gessner <support@j-gessner.de>
+Section: Tweaks
+dev: maxner
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=unfoldDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=unfoldDp
+Icon: file:///Library/PreferenceBundles/UnfoldPrefs.bundle/icon@2x.png
+Installed-Size: 286
+Tag: purpose::extension
+Filename: debs/unfold_2.2.5.deb
+Depiction: https://imnotsatan.github.io/depictions/de.j-gessner.unfold.html
+Icon: https://imnotsatan.github.io/icons/de.j-gessner.unfold.png
+Size: 80904
+MD5sum: 1d88a06887486b1f74eede4908e71e3d
+SHA1: d9a27d4f86136adb48f69f5945e4adc534b2fb5b
+SHA256: bc1aa8b443a5498717c9b2d0d4ca6af14ab8f447e29a1cd800052b7cba5996c2
+SHA521: 3ab9e7175b38a58fff6ce2006ad1207fd7b405e353a243578ddd6b2e8115ab03afe7cb910cbd4146f81664984488d0dc035ade1e8cc63679bce9f7aa9ffe1644
+
 Package: eu.heinelt.ifile
 Name: iFile
 Depends: file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar, diskdev-cmds
