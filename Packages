@@ -1,3 +1,39 @@
+Package: com.ryannair05.cask3
+Name: Cask 3
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
+Provides: com.ryannair05.cask2
+Description: Animated table scrolling
+Maintainer: Ryan Nair
+Author: Ryan Nair
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Installed-Size: 854
+Filename: debs/com.mrgcgamer.libgcuniversal_1.6.4_iphoneos-arm.deb
+Depiction: https://alex-repo14.github.io/repo/depictions/com.ryannair05.cask3.html
+Icon: https://alex-repo14.github.io/repo/icons/com.ryannair05.cask3.png
+Size: 321836
+MD5sum: f2e7ee5c167313607fd441e4bb4731db
+SHA256: 7498cea8a182aa898cf5e5464e2ff692e1ae4a4a77f8182cd179a391fb0f0884
+
+Package: com.ryannair05.cask3
+Name: Cask 3
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
+Provides: com.ryannair05.cask2
+Description: Animated table scrolling
+Maintainer: Ryan Nair
+Author: Ryan Nair
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 1.0.2
+Installed-Size: 854
+Filename: debs/com.mrgcgamer.libgcuniversal_1.6.4_iphoneos-arm.deb
+Depiction: https://alex-repo14.github.io/repo/depictions/com.ryannair05.cask3.html
+Icon: https://alex-repo14.github.io/repo/icons/com.ryannair05.cask3.png
+Size: 321656
+MD5sum: 977113a0628f491783745ac99559e084
+SHA256: 6864289c1b2445400b80fe8de275e344d7ab0aa0d597ecfe7c5d35268b9834a9
+
 Package: com.mrgcgamer.libgcuniversal
 Name: LibGcUniversal
 Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
