@@ -1,3 +1,37 @@
+Package: eu.heinelt.ifile
+Name: iFile
+Depends: file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar, diskdev-cmds
+Description: A File Manager and Viewer. iFile is a file manager runnning under user root. It allows fast navigation through the iPhone file system. It allows direct viewing of files of various types, e.g. movies, sound, text, HTML, Microsoft types, PDF, ZIP. For PDF files direct jumping to pages is possible. ZIP packing and unpacking is also supported. Files can be sent as email attachments. Text files and property lists can be edited. Folders and files can be bookmarked. In addition, files can be uploaded and downloaded from iFile's built-in web server.
+Maintainer: Carsten Heinelt
+Author: Carsten Heinelt
+Section: System
+Architecture: iphoneos-arm
+Version: 2.2.0-1
+Installed-Size: 20224
+Filename: debs/eu.heinelt.ifile_2.2.0-1_iphoneos-arm.deb
+Depiction: https://alex-repo14.github.io/repo/depictions/eu.heinelt.ifile.html
+Icon: https://alex-repo14.github.io/repo/icons/eu.heinelt.ifile.png
+Size: 9751882
+MD5sum: 88766f339cc7b150e356331e4594db7b
+SHA1: 3ff2ab2d71d013510c2d7946165719757878a613
+SHA256: 9f8c38312d7676a88507dcac6196261185928c9b38666bab80ac50fcfb8c3c61
+
+Package: p7zip
+Name: 7-zip (POSIX)
+Description: claims to be a good compressor
+Maintainer: p7zip
+Author: p7zip
+Section: Archiving
+Architecture: iphoneos-arm
+Version: 4.57-3p
+Installed-Size: 4328
+Filename: debs/p7zip_4.57-3p_iphoneos-arm.deb
+Depiction: https://alex-repo14.github.io/repo/depictions/p7zip.html
+Size: 1595788
+MD5sum: 80396bec09f94e23cd1d59fe818cbf5f
+SHA1: ee4d0b30cb5628a31830cab89df3764cdfb27015
+SHA256: 72035b550c364ca25362a7f2dbf67254950da2c5989347a40f860eb56508816e
+
 Package: com.ryannair05.cask3
 Name: Cask 3
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
